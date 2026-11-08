@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cjw47pt46vp1k"]
+
+[ext_resource type="Script" uid="uid://dgrkh01rwxu3" path="res://addons/gmc-toolbox/playfield/GMCPlayfield.gd" id="1_txhn4"]
+
+[node name="GMCPlayfield" type="TextureRect" unique_id=702017031]
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_txhn4")
+metadata/_custom_type_script = "uid://dgrkh01rwxu3"
