@@ -1,4 +1,3 @@
 # Tiki
 Tiki Bobs
-
-* author: Jeff Smiley
+Author: Jeff Smiley
